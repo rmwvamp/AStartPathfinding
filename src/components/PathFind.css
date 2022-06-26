@@ -1,0 +1,7 @@
+.Wrapper{
+    margin : auto;
+    width : 80%;
+}
+.grid-row{
+    display:flex;
+} 
